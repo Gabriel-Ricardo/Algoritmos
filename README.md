@@ -3,8 +3,8 @@
 
 **Portuguese:**
 
-Esse repositório contém as anotações da disciplina de Algoritmos da graduação em Análise e Desenvolvimento de Sistemas.
+Esse repositório contém exercícios e soluções de problemas escritos na linguagem C. 
 
 **English:**
 
-This repository contains the notes of the Algorithms discipline of the Systems Analysis and Development undergraduate course.
+This repository contains exercises and troubleshooting written in the C language.
