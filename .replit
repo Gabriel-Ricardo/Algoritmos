@@ -1,0 +1,2 @@
+language = "c"
+run = "gcc 'Listas de exercícios/Lista 01/exemplo1.c' -o exemplo1 ; ./exemplo1"
